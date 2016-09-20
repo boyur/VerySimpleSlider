@@ -1,0 +1,18 @@
+.slider {
+    position: relative;
+    width: 100%;
+    height: 600px;
+    background: #222;
+    background-image: url("http://7oom.ru/wp-content/uploads/foto-priroda-23.jpg");
+    background-size: cover;
+}
+
+.content {
+    position: absolute;
+    max-width: 300px;
+    top: 100px;
+    left: 100px;
+    color: #fff;
+    background: rgba(51, 51, 51, 0.51);
+    padding: 50px;
+}
